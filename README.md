@@ -57,3 +57,11 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 <img width="1009" height="1034" alt="image" src="https://github.com/user-attachments/assets/866e347b-4b64-4c0f-b16c-d87e4419d106" />
 
 
+
+## Agent_Graphs
+### Supervisor 패턴 Agent graph
+
+
+### Router 패턴 Agent graph
+
+<img width="1455" height="729" alt="image" src="https://github.com/user-attachments/assets/8fe8faef-3b46-41a2-937e-3cca5b5a0e28" />
