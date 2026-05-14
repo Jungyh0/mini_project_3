@@ -61,6 +61,8 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 ## Agent_Graphs
 ### Supervisor 패턴 Agent graph
 
+<img width="267" height="204" alt="image" src="https://github.com/user-attachments/assets/f756f6eb-8d25-4c9c-8f09-937d316c3dab" />
+
 
 ### Router 패턴 Agent graph
 
