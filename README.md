@@ -16,19 +16,23 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 ## 구현
 <img width="946" height="373" alt="image" src="https://github.com/user-attachments/assets/bd6f6e69-6694-4299-a0db-151249f2a9db" />
 
+
 [구성 요소]
 - supervisor 패턴의 리뷰 분석 Agent
 - Router 패턴의 개선 방향 도출 Agent
 - 상품의 속성 관리 DB
 
 ## DB
+
 <img width="673" height="571" alt="스크린샷 2026-05-14 165146" src="https://github.com/user-attachments/assets/87d66791-d4cf-4f13-80c9-f3801e8f72a8" />
+
 
 [column]
 - review: 사용자 리뷰 원문
 - aspect: 리뷰에서 추출한 속성
 - label: aspect와 1대1로 매칭된 만족도 (1: 만족, 0: 불만족)
 - score: 별점 점수(보완점을 찾을 비류 검출용)
+
 
 <img width="549" height="299" alt="image" src="https://github.com/user-attachments/assets/c7fe394f-de52-42e1-8fee-fe58e4c11287" />
 
