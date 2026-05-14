@@ -66,4 +66,4 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 
 ### Router 패턴 Agent graph
 
-<img width="1455" height="729" alt="image" src="https://github.com/user-attachments/assets/8fe8faef-3b46-41a2-937e-3cca5b5a0e28" />
+<img width="267" height="204" alt="image" src="https://github.com/user-attachments/assets/8fe8faef-3b46-41a2-937e-3cca5b5a0e28" />
