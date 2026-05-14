@@ -6,6 +6,7 @@
   - [Agent_Graphs](#Agent_Graphs)
 ## 개요
 <img width="875" height="365" alt="image" src="https://github.com/user-attachments/assets/c06da4a2-e999-4034-b83a-205473a95e13" />
+
 기존 리뷰 분석 방향은 긍/부정 여부만 사람이 직접 판단하는 방식이었고,
 리뷰들의 형식이 정규화 되지 않고 각각 다르기 때문에 분석에 어려움이 있었다.
 이러한 방식은 시간과 관리 비용이 증가하는 비효율적인 방법이라 판단 
