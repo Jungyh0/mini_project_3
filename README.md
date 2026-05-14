@@ -16,3 +16,8 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 ## 구현
 <img width="946" height="373" alt="image" src="https://github.com/user-attachments/assets/bd6f6e69-6694-4299-a0db-151249f2a9db" />
 
+[구성 요소]
+- supervisor 패턴의 리뷰 분석 Agent
+- Router 패턴의 개선 방향 도출 Agent
+- 상품의 속성 관리 DB
+
