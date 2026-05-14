@@ -45,3 +45,15 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 [aspect의 만족 분포도]
 
 <img width="549" height="299" alt="image" src="https://github.com/user-attachments/assets/0415f9c4-8a77-428e-89fe-44c23e7c213c" />
+
+[개선 방향 도출 대시보드]
+
+<img width="1342" height="1035" alt="image" src="https://github.com/user-attachments/assets/530249b5-e04e-4e8e-bd1e-76606dbaf1c3" />
+
+
+<img width="1356" height="378" alt="image" src="https://github.com/user-attachments/assets/cab80cde-752c-4e39-a373-df1d7e02afc5" />
+
+
+<img width="1009" height="1034" alt="image" src="https://github.com/user-attachments/assets/866e347b-4b64-4c0f-b16c-d87e4419d106" />
+
+
