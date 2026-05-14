@@ -24,4 +24,9 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 ## DB
 <img width="673" height="571" alt="스크린샷 2026-05-14 165146" src="https://github.com/user-attachments/assets/87d66791-d4cf-4f13-80c9-f3801e8f72a8" />
 
+<img width="549" height="299" alt="image" src="https://github.com/user-attachments/assets/c7fe394f-de52-42e1-8fee-fe58e4c11287" />
+
+<img width="557" height="262" alt="image" src="https://github.com/user-attachments/assets/97ae2bba-4970-4e6b-bbaa-483531c0af39" />
+
+<img width="553" height="225" alt="image" src="https://github.com/user-attachments/assets/7c1fdb7f-ff39-482e-8511-4b73bdb9f4a0" />
 
