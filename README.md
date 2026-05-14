@@ -21,3 +21,7 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 - Router 패턴의 개선 방향 도출 Agent
 - 상품의 속성 관리 DB
 
+## DB
+<img width="673" height="571" alt="스크린샷 2026-05-14 165146" src="https://github.com/user-attachments/assets/87d66791-d4cf-4f13-80c9-f3801e8f72a8" />
+
+
