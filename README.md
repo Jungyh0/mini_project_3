@@ -38,15 +38,15 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 
 
 ## 대시보드
-[상품 이류 등록/ 분석 대시보드]
+### [상품 이류 등록/ 분석 대시보드]
 
 <img width="549" height="299" alt="image" src="https://github.com/user-attachments/assets/cc78ddbb-0e2e-4607-81a5-04921fc60e28" />
 
-[aspect의 만족 분포도]
+### [aspect의 만족 분포도]
 
 <img width="549" height="299" alt="image" src="https://github.com/user-attachments/assets/0415f9c4-8a77-428e-89fe-44c23e7c213c" />
 
-[개선 방향 도출 대시보드]
+### [개선 방향 도출 대시보드]
 
 <img width="1342" height="1035" alt="image" src="https://github.com/user-attachments/assets/530249b5-e04e-4e8e-bd1e-76606dbaf1c3" />
 
