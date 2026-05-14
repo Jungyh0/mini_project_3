@@ -36,3 +36,8 @@ AI_Agent를 활용해 분석과 결과를 볼 수 있는 데시보드를 제공�
 
 <img width="553" height="225" alt="image" src="https://github.com/user-attachments/assets/7c1fdb7f-ff39-482e-8511-4b73bdb9f4a0" />
 
+
+## 대시보드
+[상품 이류 등록/ 분석 대시보드]
+
+<img width="286" height="176" alt="image" src="https://github.com/user-attachments/assets/cc78ddbb-0e2e-4607-81a5-04921fc60e28" />
